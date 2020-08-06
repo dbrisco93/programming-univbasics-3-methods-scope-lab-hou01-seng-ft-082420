@@ -12,8 +12,9 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-def all_phrases(phrase1, phrase2, phrase3, phrase4)
+def all_phrases
   phrase1 = Mario
   phrase2 = toadstool
   phrase3 = link
+  puts #{phrase1}, #{phrase2}, {phrase3}
 end

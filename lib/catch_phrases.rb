@@ -7,3 +7,7 @@ end
 def toadstool
   puts status = 'TThank You Mario! But Our Princess Is In Another Castle!'    
 end
+
+def link
+  
+end

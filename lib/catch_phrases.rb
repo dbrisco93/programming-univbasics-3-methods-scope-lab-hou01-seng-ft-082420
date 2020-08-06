@@ -13,7 +13,7 @@ def link
 end
 
 def all_phrases
-  phrase1 = Mario
+  phrase1 = mario
   phrase2 = toadstool
   phrase3 = link
   puts #{phrase1}, #{phrase2}, {phrase3}
